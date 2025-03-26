@@ -4,7 +4,7 @@ import java.net.Socket;
 public class Client {
 
     public static void main(String[] args) {
-        String host = "127.0.0.1"; // Или "127.0.0.1"
+        String host = "127.0.0.1"; 
         int port = 8080;
         String message = "Привет от клиента!";
 
